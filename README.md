@@ -86,6 +86,11 @@ The code uses three classes: `Piece` represents a tetromino, `Button` handles me
 - Improve high-score handling and validate the JSON data when loading it.
 - Add screenshots or a short gameplay recording to the repository.
 - Refactor the game into separate modules as the project grows.
+## Screenshots
+
+![Tetris Screenshot 1](ptss1.png)
+
+![Tetris Screenshot 2](ptss2.png)  
 
 ## Author
 
