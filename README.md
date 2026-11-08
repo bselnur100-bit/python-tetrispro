@@ -35,8 +35,8 @@ A Tetris-style desktop game built with Python and Pygame. The project explores o
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/python-tetris-pro.git
-   cd python-tetris-pro
+   git clone https://github.com/bselnur100-bit/python-tetrispro.git
+   cd python-tetrispro
    ```
 
 2. (Optional) Create and activate a virtual environment.
